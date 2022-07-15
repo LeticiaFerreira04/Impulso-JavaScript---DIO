@@ -1,2 +1,2 @@
-# Impulso-JavaScript---DIO
+# Impulso-JavaScript-DIO
 Meu primeiro bootcamp na DIO.
